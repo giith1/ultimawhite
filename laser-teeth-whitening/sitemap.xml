@@ -6,26 +6,62 @@
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
                  <loc>index.html</loc>
-                 <lastmod>2025-06-12T12:58:10+00:00</lastmod>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2025-06-12T12:58:10+00:00</lastmod>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>choose-us.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>price.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>gallery.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>faqs.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>clinic-locations.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>reviews.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>maintenance.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>contact-us.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>12-reasons.html</loc>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2025-06-12T12:58:10+00:00</lastmod>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>feed.xml</loc>
-                 <lastmod>2025-06-12T12:58:10+00:00</lastmod>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.xml</loc>
-                 <lastmod>2025-06-12T12:58:10+00:00</lastmod>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2025-06-12T12:58:10+00:00</lastmod>
+                 <lastmod>2025-08-21T10:29:26+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
